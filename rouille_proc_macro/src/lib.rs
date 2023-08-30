@@ -111,7 +111,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "permettre" => "allow",
         "obtenir_ou_insérer_avec" => "get_or_insert_with",
         "principal" => "main",
-        "attendre" => "expect",
+        "attend" => "expect",
         "étendre" => "extend",
         "macro_de_procédure" => "proc_macro",
         "énumérer" => "enumerate",
