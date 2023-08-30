@@ -10,6 +10,7 @@ write Rust programs in any language, just select the branch you want according t
 ## Supported languages
 
 - French Rouille Branch
+- Polish rdza branch
 
 ## The license
 
