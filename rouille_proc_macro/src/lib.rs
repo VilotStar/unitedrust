@@ -127,6 +127,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "comme_tranche" => "as_slice",
         "trier" => "sort",
         "inverse" => "reverse",
+        "itérateur" => "iter",
         _ => &ident_str,
     };
 
