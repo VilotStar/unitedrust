@@ -11,6 +11,7 @@ write Rust programs in any language, just select the branch you want according t
 
 - French rouille branch
 - Polish rdza branch
+- Japanese sabi branch
 
 ## The license
 
