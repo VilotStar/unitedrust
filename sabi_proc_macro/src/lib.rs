@@ -127,6 +127,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "スライスとして" => "as_slice",
         "選別" => "sort",
         "逆行する" => "reverse",
+        "イテレータ" => "iter",
         _ => &ident_str,
     };
 
